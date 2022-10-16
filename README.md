@@ -2,6 +2,8 @@
 
 ## Live Link :- https://kursaha.herokuapp.com/
 
+## GitHub Repo Link :- https://github.com/harshsingh5023/Kursaha
+
 Steps to Start with 
 
 1) `npm install`
