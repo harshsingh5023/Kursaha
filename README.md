@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+## Live Link :- https://kursaha.herokuapp.com/
+
+Steps to Start with 
+
+1) `npm install`
+    Run above command to install all the packages required to run the code.
+    
+2) `npm start'
+    To run project on local machine.
+    
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
